@@ -64,7 +64,7 @@ metadata:
 ### 调用示例
 
 ```
-@skill-check 安装前审查 https://github.com/orange2ai/renwei-writing.git
+@skill-check 安装前审查 https://github.com/LinJuanCoding/skill-check
 ```
 
 ## 审查工作流
