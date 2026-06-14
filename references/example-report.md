@@ -4,9 +4,8 @@
 
 ## 一、审查结论
 
-**目标**：https://github.com/orange2ai/renwei-writing.git / renwei-writing
-**审查模式**：安装前远程审查（未安装）
-**commit**：c6566884997f3688478f43ecdac29423757548a0
+**Skill 名称**：renwei-writing
+**审查来源**：GitHub 远程（安装前）· orange2ai/renwei-writing
 **审查时间**：2026-06-14
 **审查范围**：SKILL.md、README.md、README.en.md、LICENSE.md、references/case-study.md、references/post-edit-checklist.md。无 scripts/、hooks.json、.mcp.json、可执行脚本。
 
