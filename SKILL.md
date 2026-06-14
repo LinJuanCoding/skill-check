@@ -64,7 +64,7 @@ metadata:
 ### 调用示例
 
 ```
-@skill-check 安装前审查 https://github.com/orange2ai/renwei-writing.git
+@skill-check 安装前审查 https://github.com/someone/some-skill.git
 ```
 
 ## 审查工作流
@@ -171,6 +171,7 @@ metadata:
 - **能力-权限匹配**用简短表格：声称 vs 实际
 - **许可条款**放在「来源可信度」，标注「非安全问题」
 - **审查对象**用 Skill 名称 + 来源分写，禁止把 URL 和名称用 `/` 拼在一行（如 `url / name`）
+- **报告与示例勿引用真实第三方 Skill 仓库**作示范（易像推广）；用 `some-org/demo-skill` 等虚构名，或只写用户本次指定的审查对象
 
 ### 报告模板
 

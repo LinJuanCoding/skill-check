@@ -46,7 +46,7 @@ Agent 会只读扫描目标文件，**不执行**被审查 Skill 里的脚本。
 |------|------|
 | [SKILL.md](SKILL.md) | 审查流程、报告模板、远程 URL 审查步骤 |
 | [references/audit-patterns.md](references/audit-patterns.md) | 红线/黄线关键词与路径清单 |
-| [references/example-report.md](references/example-report.md) | 完整报告示例（renwei-writing） |
+| [references/example-report.md](references/example-report.md) | 完整报告格式示例（虚构 Skill） |
 
 ## 报告长什么样
 
